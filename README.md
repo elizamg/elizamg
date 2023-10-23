@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 💻 I'm an incoming Junior studying Computer Science at Stanford University.
+- 💻 I'm a Junior studying Computer Science at Stanford University.
 - 💼 Passionate about STEM education, education technology, security, and human-computer interaction.
 - 👩‍💻 Currently exploring software engineering, machine learning, and data science.
 - 💜 Enthusiastic about increasing diversity in CS, co-president of Stanford Women in CS (learn more about us here! https://www.stanfordwomenincomputerscience.com/)
