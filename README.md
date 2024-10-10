@@ -6,7 +6,24 @@
 - 💼 Passionate about STEM education, education technology, and human-computer interaction.
 - 💜 Enthusiastic about increasing diversity in CS, former co-president of Stanford Women in CS (learn more about us here! https://www.stanfordwomenincomputerscience.com/)
 
+## Projects (Featured Here)
+
+### FitCast
+
+- Collaborated on a team of four to conduct need-finding interviews, prototype using Figma, and develop an app in React that curates clothing suggestions based on the weather.
+- Awarded best concept out of 40 teams in Stanford’s CS 147 class.
+
+
 ## Work/Internship Experience
+
+### Bank of America Software Engineerign Intern (Summer 2024)
+- Identified and developing AI workflows for the team while specializing in frontend design and development.
+
+### CS Tutor (November 2022-Present)
+- Tutoring a 6-year-old in computer science, leveraging skills in programming, problem-solving, and effective communication to make complex concepts accessible and engaging for young learners.
+
+### Stealth Start-up Co-founder and President
+- Working through need-finding processes and collaborating with design partners. Backed by upfront ventures.
 
 ### Boeing Product Security Engineering Intern (Summer 2023)
 
