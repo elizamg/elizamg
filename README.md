@@ -1,69 +1,10 @@
-# Eliza Gallagher's GitHub README
-
-## About Me
-
-- 💻 I'm a Senior studying Computer Science at Stanford University.
-- 💼 Passionate about STEM education, education technology, and human-computer interaction.
-- 💜 Enthusiastic about increasing diversity in CS, former co-president of Stanford Women in CS (learn more about us here! https://www.stanfordwomenincomputerscience.com/)
-
-## Projects (Featured Here)
-
-### FitCast
-
-- Collaborated on a team of four to conduct need-finding interviews, prototype using Figma, and develop an app in React that curates clothing suggestions based on the weather.
-- Awarded best concept out of 40 teams in Stanford’s CS 147 class.
+# FitCast Hi-Fi Prototype
+### CS 147 Autumn 2023
+#### Class Site: https://hci.stanford.edu/courses/cs147/2023/au/projects.html
+#### Project Site: https://web.stanford.edu/class/cs147/projects/UnintentionalGood/FitCast/
 
 
-## Work/Internship Experience
+### CS 147L ReadMe
+#### Since the 147 and 147L specs were a bit different, we created a version for both classes. Only the 147Lmodals branch contains the final code for the 147L version.
+#### The full ReadMe as well as the exported app can be found here: https://docs.google.com/document/d/1QA855vnnBP0qiNhTy3YvgpQQELpxPBt_EKKmKkhqnnE/edit?usp=sharing
 
-### Bank of America Software Engineerign Intern (Summer 2024)
-- Identified and developing AI workflows for the team while specializing in frontend design and development.
-
-### CS Tutor (November 2022-Present)
-- Tutoring a 6-year-old in computer science, leveraging skills in programming, problem-solving, and effective communication to make complex concepts accessible and engaging for young learners.
-
-### Stealth Start-up Co-founder and President
-- Working through need-finding processes and collaborating with design partners. Backed by upfront ventures.
-
-### Boeing Product Security Engineering Intern (Summer 2023)
-
-- Worked with a variety of teams under the product security umbrella.
-- Learned about security strategies and practical applications, with a focus on Tenable/Nessus ACAS Scanning, SCAP Scanning, and scripting (Python, Terraform, Ansible).
-
-### Undergraduate Physics Research (January 2022 - Present)
-
-- Collaborated with the Cosmic Magnetism & Interstellar Physics Group at Stanford University.
-- Studied interstellar turbulence to find new ways to detect the ion-neutral coupling scale using Python and Jupyter notebook for data analysis.
-
-### Kodely Leader (September 2022 - October 2022)
-
-- Taught coding and tech literacy to elementary-aged children.
-- Managed classrooms and conveyed complex information in a fun and informative way.
-
-### Quality and Safety Intern (Summer 2020 and 2021)
-
-- Contributed to creating a sustainability program to monitor and reduce CO2 emissions.
-- Conducted safety perception surveys for field and plant team members, improving safety measures.
-
-## Activities/Volunteering
-
-### Director of Operations: STEM You Can! (June 2018 - Present)
-
-- Founded and directed a camp in Kentucky's Appalachian region to encourage girls (4th-6th grade) to become interested in STEM.
-- Currently serving as the Director of National Operations and head of the National Board.
-
-### Co-President: Stanford Women in Computer Science (WiCS)
-
-- Led a board of 30 members to provide community, professional development, and DEI programming for 1300 members at Stanford.
-
-## Languages
-
-- English (Native)
-- Spanish (Classroom Proficiency)
-
-## Contact Information
-
-- 📧 Email: elizamg@stanford.edu/lizzyg2003@gmail.com
-- 📱 LinkedIn: https://www.linkedin.com/in/elizabeth-gallagher-stanford/
-
-Feel free to reach out for collaboration or discussions on any of the topics mentioned above. Let's connect and learn together!
